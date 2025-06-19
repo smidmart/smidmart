@@ -1,4 +1,4 @@
-## # Smidmart Project
+## # Smidmart 
 
 This is a project related to [Smidmart](https://smidmart.com).
 
