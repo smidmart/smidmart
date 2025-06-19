@@ -1,4 +1,9 @@
-## Hi there 👋
+## # Smidmart Project
+
+This is a project related to [Smidmart](https://smidmart.com).
+
+Visit the official website: [https://smidmart.com](https://smidmart.com)
+
 
 <!--
 **smidmart/smidmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
